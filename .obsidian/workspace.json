@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6dc9c1eab148b9cd",
+        "id": "984d1d0d03fd58a9",
         "type": "tabs",
         "children": [
           {
-            "id": "94f8b16b911b155d",
+            "id": "d75eab5b3768ed89",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -90,7 +90,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "NCC Note/节点开发.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -99,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "节点开发 的反向链接列表"
             }
           },
           {
@@ -108,11 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NCC Note/节点开发.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "节点开发 的出链列表"
             }
           },
           {
@@ -136,21 +138,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,8 +164,10 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "9d8ae3ae5b10670a",
+  "active": "d75eab5b3768ed89",
   "lastOpenFiles": [
-    "未命名.md"
+    "NCC Note/环境搭建.md",
+    "NCC Note/节点开发.md",
+    "NCC Note"
   ]
 }
