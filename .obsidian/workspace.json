@@ -11,10 +11,14 @@
             "id": "d75eab5b3768ed89",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "NCC Note/开发笔记.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "开发笔记"
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NCC Note/节点开发.md",
+                "file": "NCC Note/环境搭建.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "节点开发 的反向链接列表"
+              "title": "环境搭建 的反向链接列表"
             }
           },
           {
@@ -109,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NCC Note/节点开发.md",
+                "file": "NCC Note/环境搭建.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "节点开发 的出链列表"
+              "title": "环境搭建 的出链列表"
             }
           },
           {
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "NCC Note/开发笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "开发笔记 的大纲"
             }
           }
         ],
@@ -167,7 +172,19 @@
   "active": "d75eab5b3768ed89",
   "lastOpenFiles": [
     "NCC Note/环境搭建.md",
+    "NCC Note/assets/image-20250907111747158.png",
+    "NCC Note/assets/image-20250907111738187.png",
+    "NCC Note/assets/image-20250907111730188.png",
+    "NCC Note/assets/image-20250907111725029.png",
+    "NCC Note/assets/image-20250907111718159.png",
+    "NCC Note/assets/image-20250907111711811.png",
+    "NCC Note/assets/image-20250907111655232.png",
+    "NCC Note/assets/image-20250907111644932.png",
+    "NCC Note/assets/image-20250907111633536.png",
+    "NCC Note/assets/image-20250907111616388.png",
+    "NCC Note/assets",
     "NCC Note/节点开发.md",
+    "NCC Note/开发笔记.md",
     "NCC Note"
   ]
 }
