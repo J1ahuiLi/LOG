@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中级软件设计师/计算机网络概论.md",
+                "file": "DEV NOTE/VMware安装Ubuntu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "计算机网络概论"
+              "title": "VMware安装Ubuntu"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中级软件设计师/计算机网络概论.md",
+                "file": "DEV NOTE/VMware安装Ubuntu.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "计算机网络概论 的大纲"
+              "title": "VMware安装Ubuntu 的大纲"
             }
           }
         ],
@@ -171,27 +171,32 @@
   },
   "active": "d75eab5b3768ed89",
   "lastOpenFiles": [
+    "中级软件设计师/操作系统.md",
+    "DEV NOTE/assets/image-20250907145104041.png",
+    "DEV NOTE/assets/image-20250907145034454.png",
+    "DEV NOTE/assets/image-20250907144908353.png",
+    "DEV NOTE/assets/image-20250907144705512.png",
+    "DEV NOTE/assets/image-20250907144536689.png",
+    "DEV NOTE/assets/image-20250907144403601.png",
+    "DEV NOTE/assets/image-20250907144306973.png",
+    "DEV NOTE/assets/image-20250907144233203.png",
+    "DEV NOTE/assets/image-20250907143949372.png",
+    "DEV NOTE/assets/image-20250907143911485.png",
+    "DEV NOTE/assets",
+    "DEV NOTE/VMware安装Ubuntu.md",
+    "DEV NOTE/VMWare安装Ubuntu.md",
+    "DEV NOTE/VMWare安装Ubuntun.md",
+    "DEV NOTE/Untitled.md",
+    "中级软件设计师/软件工程.md",
+    "中级软件设计师/计算题.md",
+    "中级软件设计师/计算机网络概论.md",
     "DEV NOTE",
     "Untitled Folder",
-    "中级软件设计师/计算题.md",
     "中级软件设计师/Untitled.md",
-    "中级软件设计师/软件工程.md",
-    "中级软件设计师/操作系统.md",
     "NCC NOTE/开发笔记.md",
-    "中级软件设计师/计算机网络概论.md",
     "NCC NOTE/节点开发.md",
     "NCC NOTE/环境搭建.md",
     "NCC Note/开发笔记.md",
-    "NCC NOTE/assets/image-20250907111738187.png",
-    "NCC NOTE/assets/image-20250907111747158.png",
-    "NCC NOTE/assets/image-20250907111730188.png",
-    "NCC NOTE/assets/image-20250907111725029.png",
-    "NCC NOTE/assets/image-20250907111718159.png",
-    "NCC NOTE/assets/image-20250907111711811.png",
-    "NCC NOTE/assets/image-20250907111655232.png",
-    "NCC NOTE/assets/image-20250907111644932.png",
-    "NCC NOTE/assets/image-20250907111633536.png",
-    "NCC NOTE/assets/image-20250907111616388.png",
     "NCC NOTE/assets",
     "NCC NOTE",
     "JAVA NOTE",
@@ -200,7 +205,6 @@
     "NCC Note/Untitled Folder",
     "NCC Note/环境搭建.md",
     "NCC Note/assets",
-    "NCC Note/节点开发.md",
-    "NCC Note"
+    "NCC Note/节点开发.md"
   ]
 }
