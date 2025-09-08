@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9ca51dcc56a9fa31",
+        "id": "896037e6118a6ca8",
         "type": "tabs",
         "children": [
           {
-            "id": "8af173b2fe06005b",
+            "id": "cf25de6ac9844120",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中级软件设计师/计算题.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "计算题"
+              "title": "New tab"
             }
           }
         ]
@@ -44,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中级软件设计师/计算题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "计算题 的大纲"
+              "title": "Outline"
             }
           }
         ],
@@ -160,21 +155,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "8af173b2fe06005b",
+  "active": "cf25de6ac9844120",
   "lastOpenFiles": [
-    "中级软件设计师/计算机网络概论.md",
-    "中级软件设计师/计算题.md",
-    "中级软件设计师/软件工程.md",
     "中级软件设计师/数据库技术基础.md",
+    "中级软件设计师/软件工程.md",
+    "中级软件设计师/计算题.md",
+    "中级软件设计师/计算机网络概论.md",
     "中级软件设计师/Untitled.md",
     "YONYOU NOTE/全税FDIP NOTE/节点开发.md",
     "YONYOU NOTE/全税FDIP NOTE/Untitled.md",
