@@ -11,10 +11,14 @@
             "id": "8af173b2fe06005b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "中级软件设计师/计算题.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "计算题"
             }
           }
         ]
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "中级软件设计师/计算题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "计算题 的大纲"
             }
           }
         ],
@@ -166,6 +171,13 @@
   },
   "active": "8af173b2fe06005b",
   "lastOpenFiles": [
+    "中级软件设计师/计算机网络概论.md",
+    "中级软件设计师/计算题.md",
+    "中级软件设计师/软件工程.md",
+    "中级软件设计师/数据库技术基础.md",
+    "中级软件设计师/Untitled.md",
+    "YONYOU NOTE/全税FDIP NOTE/节点开发.md",
+    "YONYOU NOTE/全税FDIP NOTE/Untitled.md",
     "YONYOU NOTE/NCC NOTE/assets/image-20250907111747158.png",
     "YONYOU NOTE/NCC NOTE/assets/image-20250907111738187.png",
     "YONYOU NOTE/NCC NOTE/assets/image-20250907111730188.png",
@@ -176,14 +188,12 @@
     "YONYOU NOTE/NCC NOTE/assets/image-20250907111644932.png",
     "YONYOU NOTE/NCC NOTE/assets/image-20250907111633536.png",
     "YONYOU NOTE/NCC NOTE/assets/image-20250907111616388.png",
-    "YONYOU NOTE/NCC NOTE/assets/image-20250907111549969.png",
     "YONYOU NOTE/NCC NOTE/节点开发.md",
     "YONYOU NOTE/NCC NOTE/环境搭建.md",
     "YONYOU NOTE/NCC NOTE/开发笔记.md",
     "YONYOU NOTE/NCC NOTE/assets",
     "YONYOU NOTE/NCC NOTE",
     "YONYOU NOTE/全税FDIP NOTE/开发笔记.md",
-    "YONYOU NOTE/全税FDIP NOTE/Untitled.md",
     "YONYOU NOTE/全税FDIP NOTE",
     "YONYOU NOTE/Untitled Folder",
     "YONYOU NOTE/NCC Note/节点开发.md",
@@ -199,11 +209,7 @@
     "DEV NOTE/VMWare安装Ubuntu.md",
     "DEV NOTE/VMWare安装Ubuntun.md",
     "DEV NOTE/Untitled.md",
-    "中级软件设计师/软件工程.md",
-    "中级软件设计师/计算题.md",
-    "中级软件设计师/计算机网络概论.md",
     "DEV NOTE",
-    "中级软件设计师/Untitled.md",
     "NCC NOTE/开发笔记.md",
     "NCC NOTE/节点开发.md",
     "NCC NOTE/环境搭建.md",
