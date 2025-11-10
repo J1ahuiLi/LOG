@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "开发笔记"
             }
+          },
+          {
+            "id": "5abca7d240054ca5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "2d2b1f59d46de04a",
@@ -142,13 +153,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YONYOU NOTE/NCC NOTE/开发笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "开发笔记 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -156,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 289.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,8 +179,12 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "cf25de6ac9844120",
+  "active": "5abca7d240054ca5",
   "lastOpenFiles": [
+    "YONYOU NOTE/NCC NOTE/环境搭建.md",
+    "YONYOU NOTE/NCC NOTE/节点开发.md",
+    "中级软件设计师/操作系统.md",
+    "中级软件设计师/标准化与知识产权.md",
     "中级软件设计师/数据库技术基础.md",
     "中级软件设计师/软件工程.md",
     "中级软件设计师/计算题.md",
@@ -188,8 +202,6 @@
     "YONYOU NOTE/NCC NOTE/assets/image-20250907111644932.png",
     "YONYOU NOTE/NCC NOTE/assets/image-20250907111633536.png",
     "YONYOU NOTE/NCC NOTE/assets/image-20250907111616388.png",
-    "YONYOU NOTE/NCC NOTE/节点开发.md",
-    "YONYOU NOTE/NCC NOTE/环境搭建.md",
     "YONYOU NOTE/NCC NOTE/开发笔记.md",
     "YONYOU NOTE/NCC NOTE/assets",
     "YONYOU NOTE/NCC NOTE",
@@ -204,7 +216,6 @@
     "YONYOU NOTE",
     "Untitled Folder",
     "DEV NOTE/VMware安装Ubuntu.md",
-    "中级软件设计师/操作系统.md",
     "DEV NOTE/assets",
     "DEV NOTE/VMWare安装Ubuntu.md",
     "DEV NOTE/VMWare安装Ubuntun.md",
