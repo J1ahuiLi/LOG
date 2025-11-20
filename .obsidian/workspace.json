@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "5d080a58b34ae473",
+    "type": "split",
+    "children": [
+      {
+        "id": "896037e6118a6ca8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf25de6ac9844120",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YONYOU/NCC/NCC导入导出.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NCC导入导出"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5288c44d5708fc6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6731c5af5d4d412f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d8ae3ae5b10670a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9fa7fb615ac23b6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "1e833cc015413f85",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2d2b1f59d46de04a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d108e4dd71294065",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b577245d737d3b8e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NCC Note/环境搭建.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "环境搭建 的反向链接列表"
+            }
+          },
+          {
+            "id": "666117dac2028c89",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NCC Note/环境搭建.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "环境搭建 的出链列表"
+            }
+          },
+          {
+            "id": "bc6b2ab612130bd6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "1169a37407f8eaa7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "YONYOU/NCC/NCC导入导出.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "NCC导入导出 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "cf25de6ac9844120",
+  "lastOpenFiles": [
+    "YONYOU/NCC/开发笔记.md",
+    "YONYOU/NCC/环境搭建.md",
+    "软件设计师/电子书/软件设计师考试冲刺（习题与解答）.pdf",
+    "软件设计师/电子书/软件设计师考试大纲.pdf",
+    "软件设计师/电子书/软件设计师考试同步辅导（考点串讲）.pdf",
+    "软件设计师/电子书/软件设计师教程（第5版）.pdf",
+    "YONYOU NOTE/NCC NOTE/环境搭建.md",
+    "YONYOU NOTE/NCC NOTE/节点开发.md",
+    "中级软件设计师/操作系统.md",
+    "中级软件设计师/标准化与知识产权.md",
+    "中级软件设计师/数据库技术基础.md",
+    "中级软件设计师/软件工程.md",
+    "中级软件设计师/计算题.md",
+    "中级软件设计师/计算机网络概论.md",
+    "中级软件设计师/Untitled.md",
+    "YONYOU NOTE/全税FDIP NOTE/节点开发.md",
+    "YONYOU NOTE/全税FDIP NOTE/Untitled.md",
+    "YONYOU NOTE/NCC NOTE/assets/image-20250907111747158.png",
+    "YONYOU NOTE/NCC NOTE/assets/image-20250907111738187.png",
+    "YONYOU NOTE/NCC NOTE/assets/image-20250907111730188.png",
+    "YONYOU NOTE/NCC NOTE/assets/image-20250907111725029.png",
+    "YONYOU NOTE/NCC NOTE/assets/image-20250907111718159.png",
+    "YONYOU NOTE/NCC NOTE/assets/image-20250907111711811.png",
+    "YONYOU NOTE/NCC NOTE/assets/image-20250907111655232.png",
+    "YONYOU NOTE/NCC NOTE/assets/image-20250907111644932.png",
+    "YONYOU NOTE/NCC NOTE/assets/image-20250907111633536.png",
+    "YONYOU NOTE/NCC NOTE/assets/image-20250907111616388.png",
+    "YONYOU NOTE/NCC NOTE/开发笔记.md",
+    "YONYOU NOTE/NCC NOTE/assets",
+    "YONYOU NOTE/NCC NOTE",
+    "YONYOU NOTE/全税FDIP NOTE/开发笔记.md",
+    "YONYOU NOTE/全税FDIP NOTE",
+    "YONYOU NOTE/Untitled Folder",
+    "YONYOU NOTE/NCC Note/节点开发.md",
+    "YONYOU NOTE/NCC Note/环境搭建.md",
+    "YONYOU NOTE/NCC Note/开发笔记.md",
+    "YONYOU NOTE/NCC Note/assets",
+    "YONYOU NOTE/NCC Note",
+    "DEV NOTE/VMware安装Ubuntu.md",
+    "DEV NOTE/VMWare安装Ubuntu.md",
+    "DEV NOTE/VMWare安装Ubuntun.md",
+    "DEV NOTE/Untitled.md",
+    "NCC NOTE/开发笔记.md",
+    "NCC NOTE/节点开发.md",
+    "NCC NOTE/环境搭建.md",
+    "NCC Note/开发笔记.md"
+  ]
+}
