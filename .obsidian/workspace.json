@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "896037e6118a6ca8",
+        "id": "d1454b0ddb096d93",
         "type": "tabs",
         "children": [
           {
-            "id": "cf25de6ac9844120",
+            "id": "b7bef1932fd6c9b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "YONYOU/NCC/NCC导入导出.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "NCC导入导出"
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
             }
           }
         ]
@@ -142,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YONYOU/NCC/NCC导入导出.md",
+                "file": "未命名.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "NCC导入导出 的大纲"
+              "title": "未命名 的大纲"
             }
           }
         ],
@@ -169,8 +172,10 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "cf25de6ac9844120",
+  "active": "b7bef1932fd6c9b9",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "YONYOU/NCC/NCC导入导出.md",
     "YONYOU/NCC/开发笔记.md",
     "YONYOU/NCC/环境搭建.md",
     "软件设计师/电子书/软件设计师考试冲刺（习题与解答）.pdf",
@@ -214,8 +219,6 @@
     "DEV NOTE/VMWare安装Ubuntun.md",
     "DEV NOTE/Untitled.md",
     "NCC NOTE/开发笔记.md",
-    "NCC NOTE/节点开发.md",
-    "NCC NOTE/环境搭建.md",
-    "NCC Note/开发笔记.md"
+    "NCC NOTE/节点开发.md"
   ]
 }
